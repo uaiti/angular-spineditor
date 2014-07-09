@@ -1,0 +1,21 @@
+{
+  "name": "angular-spineditor",
+  "version": "0.0.1",
+  "authors": [
+    "Charles Schaefer <charlesschaefer@gmail.com>"
+  ],
+  "description": "Angular Directive that creates an Spin Editor",
+  "main": "src/angular-spineditor.js",
+  "keywords": [
+    "spin",
+    "editor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
